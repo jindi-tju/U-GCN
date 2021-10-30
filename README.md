@@ -14,7 +14,6 @@ which has been accepted by *NeurIPS2021*.
 ## Example
 * `sh run_data.sh`
 
-Please refer to the code for detailed parameters.
 ## Acknowledgements
 The demo code is implemented based on [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.](https://dl.acm.org/doi/10.1145/3394486.3403177).
 ## Citing
