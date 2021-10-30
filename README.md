@@ -2,6 +2,7 @@
 This repository contains the demo code of the paper:
 >[Universal Graph Convolutional Networks](https://openreview.net/forum?id=MSXDyfli9vy)
 
+which has been accepted by *NeurIPS2021*.
 ## Dependencies
 * Python3
 * NumPy
