@@ -14,7 +14,7 @@ which has been accepted by *NeurIPS2021*.
 `bash run_data.sh`
 
 ## Acknowledgements
-The demo code is implemented based on [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.](https://dl.acm.org/doi/10.1145/3394486.3403177).
+The demo code is implemented based on [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks](https://dl.acm.org/doi/10.1145/3394486.3403177).
 ## Citing
     @inproceedings{U-GCN,
      title={Universal Graph Convolutional Networks},
