@@ -7,7 +7,6 @@ which has been accepted by *NeurIPS2021*.
 * Python3
 * NumPy
 * SciPy
-* scikit-learn
 * NetworkX
 * PyTorch
 
