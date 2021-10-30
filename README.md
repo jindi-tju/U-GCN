@@ -12,7 +12,7 @@ which has been accepted by *NeurIPS2021*.
 * PyTorch
 
 ## Example
-* `sh run_data.sh`
+`bash run_data.sh`
 
 ## Acknowledgements
 The demo code is implemented based on [AM-GCN: Adaptive Multi-channel Graph Convolutional Networks.](https://dl.acm.org/doi/10.1145/3394486.3403177).
