@@ -1,2 +1,2 @@
-python main.py --dataset texas -l 20
+python main.py --dataset cornell -l 20
 
