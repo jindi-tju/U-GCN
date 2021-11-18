@@ -28,11 +28,6 @@ class Config(object):
         self.featuregraph_path = conf.get("Data_Setting", "featuregraph_path")
         self.adjgraph_path = conf.get("Data_Setting", "adjgraph_path")
         self.data_set = conf.get("Data_Setting", "data_set")
-        self.feature_path = conf.get("Data_Setting", "feature_path")
-        self.label_path = conf.get("Data_Setting", "label_path")
-        self.test_path = conf.get("Data_Setting", "test_path")
-        self.train_path = conf.get("Data_Setting", "train_path")
-
 
 
 
